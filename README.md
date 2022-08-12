@@ -1,7 +1,7 @@
-- 👋 Hello
+-  Hello there,
 <p> Medialink-technologies is a web development
 and digital marketing enterprise </p>
-- 👀 We mainly develop:
+- We mainly develop:
 <ul>
 <li> personal blogs</li>
 <li> portfolio website</li>
